@@ -1,0 +1,11 @@
+nav{
+    display: flex;
+    flex-flow: row-reverse;
+       position:absolute; top:0; right:0;
+}
+
+.goo{
+position:absolute; top: 0; right: 1;
+width: 14%;
+height: 10%;
+}
